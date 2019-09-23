@@ -1,0 +1,8 @@
+{
+  "name": "webpack-module-tracker",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/gaokun/webpack-module-tracker.git",
+  "author": "Ken <gaokun@nextop.cn>",
+  "license": "MIT"
+}
